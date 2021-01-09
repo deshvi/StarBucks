@@ -49,7 +49,7 @@ Required data and program files are stored in the root repository necessary to r
 
  From the scores above, it was demonstrated that Random Forest Classifier model had produced better results without overfitting of the data.
 
-## Note
+## Notes
 
 1. Data set had limited number of features. More features could've produced even better results such as, geographical location, marital status, time of the day etc.
 2. While appreciating the amount of data made available for this assignment, a larger dataset would predict better customer behavior thereby improvement of scope for better offers & tuned offers which results in better customer experience/ satisfaction rating ultimately results in profits.
