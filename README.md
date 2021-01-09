@@ -34,7 +34,7 @@ Required data and program files are stored in the root repository necessary to r
 
 ### Model Accuracy Score
 
- Naive predictor accuracy ***0.4732***
+ Naive predictor accuracy ***0.4732***\
  LogisticRegression model accuracy ***0.699***
 
 ######  *RandomForestClassifier model accuracy 0.762*
@@ -42,7 +42,7 @@ Required data and program files are stored in the root repository necessary to r
 
   ### Model f1 Score
 
- Naive predictor f1-score ***0.6425***
+ Naive predictor f1-score ***0.6425***\
  LogisticRegression model f1-score ***0.697***
 
 ######  ***RandomForestClassifier model f1-score 0.753***
